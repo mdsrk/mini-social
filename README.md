@@ -1,1 +1,1 @@
-# mini-social
+# srk-social
